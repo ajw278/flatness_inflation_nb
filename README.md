@@ -1,24 +1,17 @@
-# flatness_inflation_nb
+# The flatness problen and inflation
 
-# Dark Matter and Galactic Rotation Curves
-
-This directory contains a Jupyter notebook that demonstrates how changing the
-properties of a dark matter halo affects a galactic rotation curve.
+This directory contains a Jupyter notebook that demonstrating how the observed flatness of the universe causes a problem for cosmology, and how inflation solves this problem.
 
 The notebook shows:
 
-- A top-down view of the galaxy (stellar disc + dark matter halo).
-- The corresponding rotation curve, with separate disc and halo contributions.
-- Interactive sliders to change the halo and disc parameters.
-- Observed rotation-curve data overlaid for “by-eye” fitting.
-
+- The Hubble diagram of Type Ia SNe, and how this implies a nearly flat universe
+- 
 ---
 
 ## Contents
 
-- `dm_rotation_widget.ipynb` – main notebook with theory, widgets, and questions.
-- `data/` – example rotation-curve data files used in the notebook (if provided).
-- `load_gaxies.py` - script to load up galaxy data.
+- `inflation.ipynb` – main notebook with theory, widgets, and questions.
+- `Type-Ia-Supernova-Data.csv` - Type Ia supernova data
 - `README.md` – this file.
 
 ---
