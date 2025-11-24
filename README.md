@@ -1,4 +1,4 @@
-# The flatness problen and inflation
+# The flatness problem and inflation
 
 This directory contains a Jupyter notebook that demonstrating how the observed flatness of the universe causes a problem for cosmology, and how inflation solves this problem.
 
